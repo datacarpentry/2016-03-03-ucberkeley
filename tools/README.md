@@ -1,6 +1,6 @@
 =======
 
-This repository is the [Data Carpentry](http://datacarpentry.org)
+This repository is the [Data Carpentry](http://datacarpentry.org)'s
 template for creating websites for workshops.
 
 1.  Do *not* fork this repository directly on GitHub.
@@ -12,7 +12,7 @@ template for creating websites for workshops.
 
 3.  Once you are done,
     please **send your repository's URL to the [Data Carpentry administrator](mailto:admin@datacarpentry.org)**.
-    We build the list of workshops on the main website
+    We build the [list of workshops on the main website](http://datacarpentry.org/workshops/index.html)
     from the data included in your `index.html` page.
     We can only do that if you [customize](CUSTOMIZATION.md) that page correctly
     *and* send us a link to your workshop website.
@@ -47,7 +47,7 @@ template for creating websites for workshops.
 
 6.  At this point, you should have a page like this:
 
-    ![](img/using-github-import.png)
+    ![](http://software-carpentry.org/img/workshop-template/using-github-import.png)
 
     You can now click "Begin Import".
     When the process is done,
@@ -85,7 +85,7 @@ since [GitHub automatically publishes that as a website](https://help.github.com
     You can do this in the browser by clicking on it in the file view
     and then selecting the pencil icon in the menu bar:
 
-    ![](img/edit-index-file-menu-bar.png)
+    ![](http://software-carpentry.org/img/workshop-template/edit-index-file-menu-bar.png)
 
     or you can clone the repository to your desktop,
     edit `index.html` there,
